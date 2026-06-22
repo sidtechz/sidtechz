@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Vaishya</h1>
+<h1 align="center">Heyy there!👋, I'm Siddharth Vaishya</h1>
 <h3 align="center">AI & Machine Learning | Web 3.0 | Robotics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidtechz&label=Profile%20views&color=0e75b6&style=flat" alt="sidtechz" /> </p>
