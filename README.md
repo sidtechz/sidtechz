@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidtechz&label=Profile%20views&color=0e75b6&style=flat" alt="sidtechz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidtechz" alt="sidtechz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/siddv10" target="blank"><img src="https://img.shields.io/twitter/follow/siddv10?logo=twitter&style=for-the-badge" alt="siddv10" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidtechz&show_icons=true&locale=en" alt="sidtechz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidtechz&" alt="sidtechz" /></p>
+
 
 <!--
 **sidtechz/sidtechz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
